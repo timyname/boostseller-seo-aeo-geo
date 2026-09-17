@@ -1,0 +1,6 @@
+scratch/
+pdf_ref/
+tools/
+node_modules/
+*.log
+.env
